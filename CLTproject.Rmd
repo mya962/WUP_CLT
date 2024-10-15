@@ -1,6 +1,6 @@
 ---
 title: "CLT_WUP"
-author: Mya Orozco 
+author: Mya Orozco
 output: 
   html_document:
     number_sections: true
